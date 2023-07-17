@@ -32,7 +32,7 @@ Crafting code and art to make the web a more beautiful place. 🚀 Proficient in
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
                     
-                  ### Socials
+                  Socials
                   
                   
                 <p align="left">
